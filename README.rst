@@ -5,6 +5,9 @@
     features like namespace and such. Of course Pull-Requests are always
     welcome. If somebody wants to take over maintership completely I would be
     happy to discuss that.
+    
+    * apt-get install graphviz
+    * ./phuml -r /var/www/php_app_folder -graphviz -createAssociations false -neato output_image.png
 
 =====
 phUML
